@@ -7,3 +7,6 @@ How to play?
 Look at the Wiki: https://github.com/kquatsch/pyTickTackToe/wiki
 
 A Bug? --> first look at the wiki
+
+
+TEst
